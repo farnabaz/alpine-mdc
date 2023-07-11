@@ -9,6 +9,9 @@
     "preview": "nuxi preview",
     "lint": "eslint ."
   },
+  "resolutions": {
+    "@nuxt/content": "npm:@farnabaz/content@latest"
+  },
   "devDependencies": {
     "@nuxt-themes/alpine": "^1.6.2",
     "@nuxt/devtools": "^0.6.7",
