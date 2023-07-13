@@ -1,0 +1,1 @@
+import{Z as t,b as n,X as a}from"./entry.f8692d6f.js";const p={__name:"playground",props:{md:{type:String,default:""}},setup(e){return(r,c)=>{const o=t("MDC");return n(),a(o,{value:e.md},null,8,["value"])}}};export{p as default};
