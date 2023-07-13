@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "resolutions": {
-    "@nuxt/content": "npm:@farnabaz/content@2.7.4"
+    "@nuxt/content": "npm:@farnabaz/content@2.7.5"
   },
   "devDependencies": {
     "@nuxt-themes/alpine": "^1.6.2",
