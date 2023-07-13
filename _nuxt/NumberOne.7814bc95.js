@@ -1,0 +1,1 @@
+import{l as n,b as o,c as t,Y as s}from"./entry.998730c8.js";const c={},r={class:"number-one"};function _(e,a){return o(),t("div",r,[s(e.$slots,"default")])}const d=n(c,[["render",_]]);export{d as default};

@@ -1,1 +1,0 @@
-import{_ as r}from"./ContentSlot.vue.dd0dd906.js";import{d as o,ai as u,I as f,ad as i}from"./entry.1d92e566.js";import"./node.40071b01.js";const d=o({name:"Markdown",extends:r,setup(t){const{parent:e}=i(),{between:n,default:a}=u(),s=f(()=>typeof t.unwrap=="string"?t.unwrap.split(" "):["*"]);return{fallbackSlot:a,tags:s,between:n,parent:e}}});export{d as default};

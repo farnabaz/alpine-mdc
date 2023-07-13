@@ -1,0 +1,1 @@
+import{l as o,b as t,c as n,Y as s}from"./entry.998730c8.js";const c={},r={class:"number-four"};function _(e,a){return t(),n("div",r,[s(e.$slots,"default")])}const f=o(c,[["render",_]]);export{f as default};
